@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jonah Unuafe
-- 👀 I’m interested in Frontend Development
+- 👨🏾‍💻 I’m interested in Frontend Development
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 📫 How to reach me: 
   - Email me on fejisfejiro@gmail.com
